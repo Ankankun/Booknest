@@ -7,7 +7,7 @@ A modern, user-friendly desktop application for managing a library's book invent
 
 ## Features
 
-*   **Modern UI:** Clean and themeable interface using the CustomTkinter library.
+*   **Modern UI:** Clean and themeable interface using the CustomTkinter library
 *   **Book Management:**
     *   **Add Books:** Manually enter book details or fetch automatically using ISBN via Open Library API.
     *   **View All Books:** Display the entire library catalog in a sortable table.
